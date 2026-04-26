@@ -12,7 +12,21 @@ const markersIkram = [
 ];
 
 const markersMahardika = [
-  // Isi marker Mahardika di sini
+  {
+    nama: "Masjid Raya Baiturrahman",
+    lat: 5.553584,
+    lng: 95.317276
+},
+{
+    nama: "Lapangan TNI Neusu",
+    lat: 5.543000,
+    lng: 95.318400
+},
+{
+    nama: "Lapangan Blang Padang",
+    lat: 5.552300,
+    lng: 95.314800
+}
 ];
 
 const markersIrfan = [
