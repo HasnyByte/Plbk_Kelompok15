@@ -8,7 +8,12 @@ const markersIkram = [
     nama: "Dayah Samudra Pasai",
     lat: 5.5212375,
     lng: 95.2881565
-  }
+  },
+  {
+    nama: "Masjid Raya Baiturrahman",
+    lat: 5.553584,
+    lng: 95.317276
+}
 ];
 
 const markersMahardika = [
