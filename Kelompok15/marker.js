@@ -52,5 +52,23 @@ const markersIrfan = [
     lat: 5.5595,
     lng: 95.2891,
     deskripsi: "Pantai indah dan pelabuhan penyeberangan menuju Pulau Weh"
+  },
+  {
+    nama: "Taman Putroe Phang",
+    lat: 5.5478,
+    lng: 95.3180,
+    deskripsi: "Taman bersejarah peninggalan Kerajaan Aceh"
+  },
+  {
+    nama: "Gunongan Historical Park",
+    lat: 5.5479,
+    lng: 95.3175,
+    deskripsi: "Bangunan bersejarah peninggalan Sultan Iskandar Muda"
+  },
+  {
+    nama: "Masjid Haji Keuchik Leumik",
+    lat: 5.5422,
+    lng: 95.3400,
+    deskripsi: "Masjid indah dengan arsitektur khas Timur Tengah di Banda Aceh"
   }
 ];
