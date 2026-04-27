@@ -35,5 +35,22 @@ const markersMahardika = [
 ];
 
 const markersIrfan = [
-  // Isi marker Irfan di sini
+  {
+    nama: "Museum Tsunami Aceh",
+    lat: 5.5484,
+    lng: 95.3150,
+    deskripsi: "Museum peringatan tsunami Samudra Hindia 2004"
+  },
+  {
+    nama: "PLTD Apung 1",
+    lat: 5.5463,
+    lng: 95.3115,
+    deskripsi: "Monumen kapal generator listrik yang terseret gelombang tsunami"
+  },
+  {
+    nama: "Pantai Ulee Lheue",
+    lat: 5.5595,
+    lng: 95.2891,
+    deskripsi: "Pantai indah dan pelabuhan penyeberangan menuju Pulau Weh"
+  }
 ];
