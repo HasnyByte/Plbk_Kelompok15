@@ -41,6 +41,21 @@ const markersMahardika = [
     nama: "Lapangan Blang Padang",
     lat: 5.552300,
     lng: 95.314800
+},
+{
+    nama: "Suzuya Mall Banda Aceh",
+    lat: 5.53770,
+    lng: 95.30710
+},
+{
+    nama: "Hermes Palace Hotel Banda Aceh",
+    lat: 5.556189,
+    lng: 95.344119
+},
+{
+    nama: "Universitas Syiah Kuala",
+    lat: 5.569257,
+    lng: 95.371226
 }
 ];
 
