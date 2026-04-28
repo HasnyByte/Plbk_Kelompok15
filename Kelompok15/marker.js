@@ -95,5 +95,23 @@ const markersIrfan = [
     lat: 5.5422,
     lng: 95.3400,
     deskripsi: "Masjid indah dengan arsitektur khas Timur Tengah di Banda Aceh"
+  },
+  {
+    nama: "Pasar Aceh",
+    lat: 5.5529,
+    lng: 95.3181,
+    deskripsi: "Pusat perbelanjaan dan pasar tradisional di Banda Aceh"
+  },
+  {
+    nama: "Museum Aceh",
+    lat: 5.5487,
+    lng: 95.3197,
+    deskripsi: "Museum benda-benda bersejarah dan budaya Aceh"
+  },
+  {
+    nama: "Kerkhoff Peucut",
+    lat: 5.5473,
+    lng: 95.3155,
+    deskripsi: "Kompleks pemakaman militer Belanda di Banda Aceh"
   }
 ];
