@@ -13,7 +13,17 @@ const markersIkram = [
     nama: "Masjid Raya Baiturrahman",
     lat: 5.553584,
     lng: 95.317276
-}
+  },
+  {
+    nama: "Pantai Ulee Lheue",
+    lat: 5.5595,
+    lng: 95.2891
+  },
+  {
+    nama: "SMA Negeri 1 Banda Aceh",
+    lat: 5.5514928,
+    lng: 95.3114548
+  }
 ];
 
 const markersMahardika = [
