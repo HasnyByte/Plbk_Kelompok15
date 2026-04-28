@@ -20,9 +20,19 @@ const markersIkram = [
     lng: 95.2891
   },
   {
-    nama: "SMA Negeri 1 Banda Aceh",
-    lat: 5.5514928,
-    lng: 95.3114548
+    nama: "Museum Tsunami Aceh",
+    lat: 5.5484,
+    lng: 95.3150
+  },
+  {
+    nama: "Stadion Harapan Bangsa",
+    lat: 5.5226087,
+    lng: 95.321215
+  },
+  {
+    nama: "Masjid Al-Makmur",
+    lat: 5.5672711,
+    lng: 95.3361185
   }
 ];
 
